@@ -39,8 +39,7 @@ You will need an openai API key for AI features to work.
 
 # SET-UP
 
-Linking/Pairing:
-
+Linking/Pairing
 
 ## ` Pair On reptil`
 <h2 align="left">  <a href="https://replit.com/@darkintent120/Pairing-drex9"><img src="https://repl.it/badge/github/quiec/whatsasena" />
